@@ -4,4 +4,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: pwd
-      - run: python main.py
+      - run: ls
